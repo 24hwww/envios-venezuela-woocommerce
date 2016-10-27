@@ -29,4 +29,4 @@ un boton para visualizar el status de su envio.
 
 ![Screenshot](https://dl.dropboxusercontent.com/u/1196814/%4024hwww/rev/cuatro.png "Optional Title")
 
-![Screenshot](https://dl.dropboxusercontent.com/u/1196814/%4024hwww/rev/cinco.png "Optional Title")
+![Screenshot](https://dl.dropboxusercontent.com/u/1196814/%4024hwww/rev/quinto.png "Optional Title")
